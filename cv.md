@@ -1,6 +1,6 @@
 # Resume
 
-![Alt-Фото][C:\Users\Наташа\Desktop\rs_school\rsschool-cv "icon"]
+![Alt-Фото][C:\Users\Наташа\Desktop\rs_school\rsschool-cv\icon.png "icon"]
 
 # Junior Front-end developer
 
@@ -10,7 +10,7 @@
 **Mobile:** +375 29 554 36 56
 **e-mail:** nskurbacheva@gmail.com
 **Discord:** Natasha17#1271
-Here is the task that I was given at codewars:"A square of squares":https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/javascript
+Here is the task that I was given at codewars:[A square of squares](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/javascript)
 
 **Education:**
 **2018-2019** – Java Script in IT-Academy (final project was not made).
