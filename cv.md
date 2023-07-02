@@ -1,6 +1,6 @@
 p=. # Resume
 
-[Alt-Фото](/rsschool-cv/icon.png)
+![Alt-Фото](/rsschool-cv/icon.png)
 
 # Junior Front-end developer
 
@@ -34,4 +34,4 @@ Here is the task that I was given at codewars: [A square of squares](https://www
 
 **2003-2008** – learned at Belarusian state economic university.
 
-**Completed projects:** CV#1. Markdown & Git at RS School
+**Completed projects:** [CV#1. Markdown & Git at RS School](https://nskurbacheva.github.io/rsschool-cv/cv)
