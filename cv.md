@@ -1,6 +1,6 @@
 p=. # Resume
 
-![Alt-Фото][/rsschool-cv/icon.png "icon"]
+[Alt-Фото](/rsschool-cv/icon.png)
 
 # Junior Front-end developer
 
