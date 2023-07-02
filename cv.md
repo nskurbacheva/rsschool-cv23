@@ -1,6 +1,6 @@
-p=. # Resume
+# Resume
 
-![Alt-Фото](/rsschool-cv/icon.png)
+![Alt-Фото](/rsschool-cv/icon.png){width: 50%}
 
 # Junior Front-end developer
 
@@ -10,7 +10,7 @@ p=. # Resume
 
 **Mobile:** +375 29 554 36 56
 
-**e-mail:** nskurbacheva@gmail.com
+**e-mail:** <nskurbacheva@gmail.com>
 
 **Discord:** Natasha17#1271
 
