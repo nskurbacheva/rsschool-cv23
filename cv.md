@@ -1,11 +1,11 @@
-p=#\*Resume**
+#Resume
 ![Alt-Фото][C:\Users\Наташа\Desktop\rs_school\rsschool-cv "icon"]
-p=#**Junior Front-end developer**
-p=#**Natallia Kurbachova\*\*
-p=Contact information:
-p=Mobile: +375 29 554 36 56
-p=e-mail: nskurbacheva@gmail.com
-p=Discord:Natasha17#1271
+#Junior Front-end developer
+#Natallia Kurbachova
+Contact information:
+Mobile: +375 29 554 36 56
+e-mail: nskurbacheva@gmail.com
+Discord:Natasha17#1271
 Here is the task that I was given at codewars:"A square of squares":https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/javascript
 
 Education:
