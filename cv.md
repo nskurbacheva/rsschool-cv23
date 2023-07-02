@@ -1,7 +1,11 @@
-#Resume
+# Resume
+
 ![Alt-Фото][C:\Users\Наташа\Desktop\rs_school\rsschool-cv "icon"]
-#Junior Front-end developer
-#Natallia Kurbachova
+
+# Junior Front-end developer
+
+# Natallia Kurbachova
+
 Contact information:
 Mobile: +375 29 554 36 56
 e-mail: nskurbacheva@gmail.com
