@@ -1,4 +1,4 @@
-# Resume
+p=. # Resume
 
 ![Alt-Фото][C:\Users\Наташа\Desktop\rs_school\rsschool-cv\icon.png "icon"]
 
